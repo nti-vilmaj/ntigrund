@@ -1,1 +1,14 @@
 /* Denna fil skall innehålla din CSS kod */
+h2{
+    background-color: red; 
+    display:block;
+    height: 300px;
+    width:200x;
+    
+}
+p{
+    font-family: verdana;
+}
+h3{
+    color: midnightblue;
+}
