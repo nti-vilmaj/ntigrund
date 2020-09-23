@@ -1,6 +1,6 @@
 /* Denna fil skall innehålla din CSS kod */
 h2{
-    background-color: red; 
+    background-color: rgb(235, 168, 168); 
     display:block;
     height: 300px;
     width:200x;
@@ -16,4 +16,15 @@ li{
     color: pink; 
     font-family: cursive;
     
+}
+#blockis{
+    background-color:rgba(367,765,78,0.8);
+    width: 60%;
+    height:80px;
+    border:solid 2px mediumturquoise;
+    color:indigo;
+    
+}
+body{
+    background-color: palegreen;
 }
