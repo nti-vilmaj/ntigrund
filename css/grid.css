@@ -1,0 +1,38 @@
+#container{
+    display:grid;
+    height: 100vw;
+    grid-template-columns:2fr 2fr 1rf 1fr;
+    grid-template-rows:300px auto 100px;
+    background-color:tan;
+    grid-template-areas: 
+    'hd hd hd hd'
+    'as mn mn mn'
+    'ft ft ft ft';
+
+}
+
+header{
+    grid-area: hd;
+    background-color:oldlace;
+}
+
+main{
+    grid-area: mn;
+    background-color: lavender;
+}
+
+aside{
+    grid-area: as;
+    Background-color:pink;  
+}
+
+footer{
+    grid-area: ft;
+    background-color: yellow;
+
+
+}
+
+p{
+    
+}
